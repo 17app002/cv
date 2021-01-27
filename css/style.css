@@ -1,0 +1,42 @@
+/* h3 {
+    background-color:#71c9ce;
+    color:black;
+    padding: 5px;
+} */
+
+body{
+    background-color:#e3fdfd;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+thead{
+    background-color: #a6e3e9;
+    font-size: 16px;
+    text-align: center;
+}
+
+tbody{
+    text-align: center;
+}
+
+/* 類別區 */
+.style1{
+    background-color:#71c9ce;
+    color:black;
+    padding: 5px;
+}
+
+.img-style1{
+    border:1px solid #000080;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: white;
+    width: 150px;
+    height: 200px;    
+}
+
+/* id區 */
+#main{
+    background-color: #b0c4de;
+
+}
